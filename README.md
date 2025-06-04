@@ -4,6 +4,7 @@
 
 ----
 >请注意，本分支为[suo5](https://github.com/zema1/suo5)服务器的Python实现。Python实现不同于原Java/.Net/Php实现，无法进行注入，只能作为独立服务器运行。本分支主要旨在提供无服务函数/工作流下suo5的可行性
+>
 >目前该分支提供aiohttp与Flask版本。均仅支持半双工，可前往[/assets/python](https://github.com/GuilingQiyu/suo5-Python/tree/main/assets/python)下查看。
 ----
 
